@@ -27,19 +27,19 @@ public class LinkGenerator {
 
     private final static Logger LOGGER = Logger.getLogger(LinkGenerator.class);
 
-    public Map<String, List<String>> generateDownloadLinks(String uri, String comicName, String extension) throws Exception {
+    public Map<String, List<String>> generateDownloadLinks(String uri, String comicName) throws Exception {
 
-	LOGGER.info("Generating download link for URL: " + uri + comicName + ", with extension: " + extension);
-	Map<String, List<String>> downloadLinks = getDownloadURL(uri, comicName, extension);
+	LOGGER.info("Generating download link for URL: " + uri + comicName);
+	Map<String, List<String>> downloadLinks = getDownloadURL(uri, comicName);
 
 	LOGGER.info("finished genetaring map with download links");
 
 	return downloadLinks;
     }
 
-    private Map<String, List<String>> getDownloadURL(String url, String comicName, String extension) throws IOException {
+    private Map<String, List<String>> getDownloadURL(String url, String comicName) throws IOException {
 
-	Document doc = Jsoup.connect(url + comicName).userAgent("Mozilla").get();
+	Document doc = Jsoup.connect(url+comicName).userAgent("Mozilla").get();
 
 	LOGGER.debug("Got documento for total amount of comics: " + doc.toString());
 
@@ -61,7 +61,8 @@ public class LinkGenerator {
 	LOGGER.info("Getting comic book links");
 
 	for (Element element : links) {
-	    if (element.toString().contains("chapter-") && element.toString().contains(comicName)) {
+	    LOGGER.info("Analizing link: " + element);
+	    if (element.toString().contains("chapter-") && element.toString().contains(comicName) && !element.toString().contains("single")) {
 		String link = (element.attr("href"));
 		LOGGER.info(link);
 		try {

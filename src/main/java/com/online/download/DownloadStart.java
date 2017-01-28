@@ -16,19 +16,19 @@ public class DownloadStart {
 
     public static void main(String[] args) {
 
-	if (args.length != 3) {
-	    LOGGER.info("Invalid amount of arguments, expeting 3 arguments");
-	    System.exit(1);
-	}
-	LOGGER.info("Begin download process with arguments: " + args[0] + ", " + args[1] + ", " + args[2]);
+	String globalLink = "http://www.readcomics.tv/comic/";
+	String extension = "jpg";
+	String comicName = "saga";
+
+	LOGGER.info("Begin download process with arguments: " + globalLink + ", " + extension + ", " + comicName);
 
 	try {
-	    Map<String, List<String>> downloadLinks = linkGenerator.generateDownloadLinks(args[0], args[1], args[2]);
+	    Map<String, List<String>> downloadLinks = linkGenerator.generateDownloadLinks(globalLink, comicName);
 	    LOGGER.info("Begin downloagin images");
 	    Integer pageNumber = 1;
 	    for (Map.Entry<String, List<String>> entry : downloadLinks.entrySet()) {
 		for (String link : entry.getValue()) {
-			fileDownloader.downloadFile(link, null, null, null,args[1], args[1] + correctNumber(pageNumber++) + ".jpg");
+			fileDownloader.downloadFile(link, null, null, null,comicName, comicName + correctNumber(pageNumber++) + "."+extension);
 		}
 
 	    }
