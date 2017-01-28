@@ -29,10 +29,10 @@ public class LinkGenerator {
 
     public Map<String, List<String>> generateDownloadLinks(String uri, String comicName) throws Exception {
 
-	LOGGER.info("Generating download link for URL: " + uri + comicName);
+	LOGGER.debug("Generating download link for URL: " + uri + comicName);
 	Map<String, List<String>> downloadLinks = getDownloadURL(uri, comicName);
 
-	LOGGER.info("finished genetaring map with download links");
+	LOGGER.debug("finished genetaring map with download links");
 
 	return downloadLinks;
     }
@@ -45,7 +45,7 @@ public class LinkGenerator {
 
 	Map<String, List<String>> comicLinks = getComicLinks(doc, comicName);
 
-	LOGGER.info("Total comics found: " + comicLinks.size());
+	LOGGER.debug("Total comics found: " + comicLinks.size());
 
 	return comicLinks;
 
@@ -56,25 +56,24 @@ public class LinkGenerator {
 	Map<String, List<String>> comicsList = new HashMap<String, List<String>>();
 
 	Elements links = doc.select("a[href]");
-	String key;
-	String volumenNumber;
+	Integer volumenNumber = 0;
 	LOGGER.info("Getting comic book links");
 
 	for (Element element : links) {
-	    LOGGER.info("Analizing link: " + element);
+	    LOGGER.debug("Analizing link: " + element);
 	    if (element.toString().contains("chapter-") && element.toString().contains(comicName) && !element.toString().contains("single")) {
 		String link = (element.attr("href"));
-		LOGGER.info(link);
+		LOGGER.debug(link);
+
 		try {
-		    volumenNumber = link.substring(link.lastIndexOf("chapter-"), link.length()).replace("chapter-", "");
-		    key = volumenNumber.length() == 1 ? "0" + volumenNumber : volumenNumber;
-		    LOGGER.debug("Storing page links using key: " + key);
-		    comicsList.put(key, getPageLinks(Jsoup.connect(link).userAgent("Mozilla").get(),comicName ,volumenNumber));
+		    LOGGER.info("Storing page links for volume number: " + ++volumenNumber);
+		    comicsList.put(volumenNumber.toString(), getPageLinks(Jsoup.connect(link).userAgent("Mozilla").get(),comicName ,volumenNumber.toString()));
 		} catch (IOException e) {
 
 		    e.printStackTrace();
 		}
 	    }
+
 	}
 
 	if (comicsList.size() == 0) {
@@ -83,9 +82,8 @@ public class LinkGenerator {
 	}
 
 	LOGGER.info("Finished getting comic book links, sorting..");
-	Map<String, List<String>> treeMap = new TreeMap<String, List<String>>(comicsList);
-	LOGGER.info("Finished sorting map... " + treeMap);
-	return treeMap;
+
+	return comicsList;
     }
 
     private List<String> getPageLinks(Document doc,String comicName ,String volumeNumber) {
@@ -94,19 +92,19 @@ public class LinkGenerator {
 	
 	Elements links = doc.select("div[class=label]");
 	int totalPages = 0;
-	LOGGER.info("Creating download page link");
+	LOGGER.debug("Creating download page link");
 
 	for (Element element : links) {
 	    if (element.text().contains("of ")) {
 		totalPages = Integer.valueOf(element.text().replace("of ", ""));
-		LOGGER.info("The volumen" + volumeNumber + " for the comicbook " + comicName + " has a total of ");
-		
+		LOGGER.debug("The volumen" + volumeNumber + " for the comicbook " + comicName + " has a total of ");
+		break;
 	    }
 	}
 
 	for(int i = 0; i < totalPages; i++){
 	    String page = ("http://www.readcomics.tv/images/manga/"+comicName+"/"+volumeNumber+"/"+(i+1)+".jpg");
-	    LOGGER.info("Creating page link: " + page);
+	    LOGGER.debug("Creating page link: " + page);
 	    pagesLinks.add(page); 
 	}
 	    
