@@ -23300,3 +23300,956 @@
 2017-01-28 02:13:11,056 INFO  FileDownloadar - establichins conection for download
 2017-01-28 02:13:11,075 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/30.jpg
 2017-01-28 02:13:11,076 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/30.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:12,039 INFO  DownloadStart - Begin download process with arguments: http://www.readcomics.tv/comic/, jpg, bone
+2017-01-28 02:18:13,430 INFO  LinkGenerator - Getting comic book links
+2017-01-28 02:18:13,436 INFO  LinkGenerator - Storing page links for volume number: 1
+2017-01-28 02:18:14,190 INFO  LinkGenerator - Storing page links for volume number: 2
+2017-01-28 02:18:14,913 INFO  LinkGenerator - Storing page links for volume number: 3
+2017-01-28 02:18:15,632 INFO  LinkGenerator - Finished getting comic book links, sorting..
+2017-01-28 02:18:15,636 INFO  DownloadStart - Begin downloagin images
+2017-01-28 02:18:15,638 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:16,676 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/1.jpg
+2017-01-28 02:18:16,699 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/1.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:17,263 INFO  FileWriter - Creating download directory: bone
+2017-01-28 02:18:17,265 INFO  FileWriter - Output directory succesfully created
+2017-01-28 02:18:20,071 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:20,074 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:20,094 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/2.jpg
+2017-01-28 02:18:20,097 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/2.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:21,347 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:21,348 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:21,369 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/3.jpg
+2017-01-28 02:18:21,370 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/3.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:23,727 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:23,728 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:23,751 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/4.jpg
+2017-01-28 02:18:23,752 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/4.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:25,000 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:25,001 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:25,020 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/5.jpg
+2017-01-28 02:18:25,021 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/5.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:26,809 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:26,810 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:26,832 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/6.jpg
+2017-01-28 02:18:26,843 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/6.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:28,722 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:28,724 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:28,745 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/7.jpg
+2017-01-28 02:18:28,746 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/7.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:32,649 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:32,651 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:32,676 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/8.jpg
+2017-01-28 02:18:32,677 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/8.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:34,332 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:34,333 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:34,352 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/9.jpg
+2017-01-28 02:18:34,353 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/9.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:36,313 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:36,314 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:36,329 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/10.jpg
+2017-01-28 02:18:36,329 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/10.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:40,185 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:40,186 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:40,206 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/11.jpg
+2017-01-28 02:18:40,208 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/11.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:42,339 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:42,340 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:42,360 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/12.jpg
+2017-01-28 02:18:42,361 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/12.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:44,562 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:44,563 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:44,579 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/13.jpg
+2017-01-28 02:18:44,580 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/13.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:46,628 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:46,629 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:46,643 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/14.jpg
+2017-01-28 02:18:46,644 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/14.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:48,577 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:48,578 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:48,595 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/15.jpg
+2017-01-28 02:18:48,596 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/15.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:50,997 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:50,998 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:51,020 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/16.jpg
+2017-01-28 02:18:51,020 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/16.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:52,921 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:52,922 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:52,937 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/17.jpg
+2017-01-28 02:18:52,938 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/17.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:54,737 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:54,739 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:54,752 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/18.jpg
+2017-01-28 02:18:54,754 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/18.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:57,365 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:57,367 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:57,382 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/19.jpg
+2017-01-28 02:18:57,383 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/19.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:18:59,131 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:18:59,132 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:18:59,147 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/20.jpg
+2017-01-28 02:18:59,148 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/20.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:02,562 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:02,563 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:02,578 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/21.jpg
+2017-01-28 02:19:02,579 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/21.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:04,512 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:04,513 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:04,531 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/22.jpg
+2017-01-28 02:19:04,532 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/22.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:07,114 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:07,115 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:07,132 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/23.jpg
+2017-01-28 02:19:07,133 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/23.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:09,136 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:09,137 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:09,156 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/24.jpg
+2017-01-28 02:19:09,157 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/24.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:10,895 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:10,896 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:10,909 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/25.jpg
+2017-01-28 02:19:10,910 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/25.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:13,125 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:13,127 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:13,153 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/26.jpg
+2017-01-28 02:19:13,153 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/26.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:16,497 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:16,498 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:16,512 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/27.jpg
+2017-01-28 02:19:16,513 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/27.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:19,820 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:19,821 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:19,839 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/28.jpg
+2017-01-28 02:19:19,840 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/28.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:21,622 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:21,623 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:21,639 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/29.jpg
+2017-01-28 02:19:21,640 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/29.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:23,675 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:23,677 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:23,690 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/30.jpg
+2017-01-28 02:19:23,690 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/30.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:25,503 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:25,504 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:25,518 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/31.jpg
+2017-01-28 02:19:25,519 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/31.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:27,456 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:27,457 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:27,471 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/32.jpg
+2017-01-28 02:19:27,471 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/32.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:31,811 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:31,812 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:31,828 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/33.jpg
+2017-01-28 02:19:31,829 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/33.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:33,807 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:33,809 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:33,821 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/34.jpg
+2017-01-28 02:19:33,822 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/34.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:38,230 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:38,231 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:38,247 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/35.jpg
+2017-01-28 02:19:38,248 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/35.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:40,972 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:40,973 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:40,995 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/36.jpg
+2017-01-28 02:19:40,996 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/36.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:43,822 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:43,823 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:43,843 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/37.jpg
+2017-01-28 02:19:43,844 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/37.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:46,615 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:46,617 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:46,632 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/38.jpg
+2017-01-28 02:19:46,633 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/38.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:49,352 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:49,354 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:49,382 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/39.jpg
+2017-01-28 02:19:49,385 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/39.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:54,061 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:54,062 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:54,076 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/40.jpg
+2017-01-28 02:19:54,076 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/40.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:56,235 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:56,238 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:56,262 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/41.jpg
+2017-01-28 02:19:56,263 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/41.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:19:58,504 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:19:58,585 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:19:58,602 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/42.jpg
+2017-01-28 02:19:58,603 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/42.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:20:02,477 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:20:02,480 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:20:02,502 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/43.jpg
+2017-01-28 02:20:02,503 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/43.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:20:04,929 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:20:04,930 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:20:04,950 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/44.jpg
+2017-01-28 02:20:04,951 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/44.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:20:06,692 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:20:06,693 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:20:06,707 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/45.jpg
+2017-01-28 02:20:06,708 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/45.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:20:08,724 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:20:08,725 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:20:08,742 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/46.jpg
+2017-01-28 02:20:08,743 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/46.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:20:11,041 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:20:11,042 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:20:11,061 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/47.jpg
+2017-01-28 02:20:11,062 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/47.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:20:15,325 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:20:15,326 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:20:15,346 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/48.jpg
+2017-01-28 02:20:15,346 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/48.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:20:17,180 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:20:17,182 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:20:17,198 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/49.jpg
+2017-01-28 02:20:17,199 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/49.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:20:19,231 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:20:19,232 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:20:19,255 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/50.jpg
+2017-01-28 02:20:19,265 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/50.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:20:21,755 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:20:21,756 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:20:21,770 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/51.jpg
+2017-01-28 02:20:21,770 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/51.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:20:25,622 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:20:25,623 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:20:25,636 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/52.jpg
+2017-01-28 02:20:25,637 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/52.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:20:27,270 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:20:27,271 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:20:27,289 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/53.jpg
+2017-01-28 02:20:27,290 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/53.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:20:29,780 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:20:29,781 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:20:29,816 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/54.jpg
+2017-01-28 02:20:29,816 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/54.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:23:19,215 INFO  DownloadStart - Begin download process with arguments: http://www.readcomics.tv/comic/, jpg, saga
+2017-01-28 02:23:20,629 INFO  LinkGenerator - Getting comic book links
+2017-01-28 02:23:20,635 INFO  LinkGenerator - Storing page links for volume number: 1
+2017-01-28 02:23:21,172 INFO  LinkGenerator - Storing page links for volume number: 2
+2017-01-28 02:23:21,707 INFO  LinkGenerator - Storing page links for volume number: 3
+2017-01-28 02:23:22,231 INFO  LinkGenerator - Storing page links for volume number: 4
+2017-01-28 02:23:22,736 INFO  LinkGenerator - Storing page links for volume number: 5
+2017-01-28 02:23:23,275 INFO  LinkGenerator - Storing page links for volume number: 6
+2017-01-28 02:23:23,842 INFO  LinkGenerator - Storing page links for volume number: 7
+2017-01-28 02:23:24,356 INFO  LinkGenerator - Storing page links for volume number: 8
+2017-01-28 02:23:24,875 INFO  LinkGenerator - Storing page links for volume number: 9
+2017-01-28 02:23:25,382 INFO  LinkGenerator - Storing page links for volume number: 10
+2017-01-28 02:23:25,879 INFO  LinkGenerator - Storing page links for volume number: 11
+2017-01-28 02:23:26,375 INFO  LinkGenerator - Storing page links for volume number: 12
+2017-01-28 02:23:26,874 INFO  LinkGenerator - Storing page links for volume number: 13
+2017-01-28 02:23:27,514 INFO  LinkGenerator - Storing page links for volume number: 14
+2017-01-28 02:23:28,017 INFO  LinkGenerator - Storing page links for volume number: 15
+2017-01-28 02:23:28,528 INFO  LinkGenerator - Storing page links for volume number: 16
+2017-01-28 02:23:29,177 INFO  LinkGenerator - Storing page links for volume number: 17
+2017-01-28 02:23:29,690 INFO  LinkGenerator - Storing page links for volume number: 18
+2017-01-28 02:23:30,240 INFO  LinkGenerator - Storing page links for volume number: 19
+2017-01-28 02:23:30,754 INFO  LinkGenerator - Storing page links for volume number: 20
+2017-01-28 02:23:31,253 INFO  LinkGenerator - Storing page links for volume number: 21
+2017-01-28 02:23:31,784 INFO  LinkGenerator - Storing page links for volume number: 22
+2017-01-28 02:23:32,300 INFO  LinkGenerator - Storing page links for volume number: 23
+2017-01-28 02:23:32,792 INFO  LinkGenerator - Storing page links for volume number: 24
+2017-01-28 02:23:33,293 INFO  LinkGenerator - Storing page links for volume number: 25
+2017-01-28 02:23:33,867 INFO  LinkGenerator - Storing page links for volume number: 26
+2017-01-28 02:23:34,438 INFO  LinkGenerator - Storing page links for volume number: 27
+2017-01-28 02:23:34,934 INFO  LinkGenerator - Storing page links for volume number: 28
+2017-01-28 02:23:35,437 INFO  LinkGenerator - Storing page links for volume number: 29
+2017-01-28 02:23:35,967 INFO  LinkGenerator - Storing page links for volume number: 30
+2017-01-28 02:23:36,522 INFO  LinkGenerator - Storing page links for volume number: 31
+2017-01-28 02:23:37,025 INFO  LinkGenerator - Storing page links for volume number: 32
+2017-01-28 02:23:37,528 INFO  LinkGenerator - Storing page links for volume number: 33
+2017-01-28 02:23:38,054 INFO  LinkGenerator - Storing page links for volume number: 34
+2017-01-28 02:23:38,538 INFO  LinkGenerator - Storing page links for volume number: 35
+2017-01-28 02:23:39,042 INFO  LinkGenerator - Storing page links for volume number: 36
+2017-01-28 02:23:39,560 INFO  LinkGenerator - Storing page links for volume number: 37
+2017-01-28 02:23:40,168 INFO  LinkGenerator - Storing page links for volume number: 38
+2017-01-28 02:23:40,687 INFO  LinkGenerator - Storing page links for volume number: 39
+2017-01-28 02:23:41,249 INFO  LinkGenerator - Storing page links for volume number: 40
+2017-01-28 02:23:41,811 INFO  LinkGenerator - Storing page links for volume number: 41
+2017-01-28 02:23:42,452 INFO  LinkGenerator - Storing page links for volume number: 42
+2017-01-28 02:23:42,932 INFO  LinkGenerator - Storing page links for volume number: 43
+2017-01-28 02:23:43,393 INFO  LinkGenerator - Storing page links for volume number: 44
+2017-01-28 02:23:43,851 INFO  LinkGenerator - Storing page links for volume number: 45
+2017-01-28 02:23:44,492 INFO  LinkGenerator - Storing page links for volume number: 46
+2017-01-28 02:23:45,033 INFO  LinkGenerator - Storing page links for volume number: 47
+2017-01-28 02:23:45,577 INFO  LinkGenerator - Finished getting comic book links, sorting..
+2017-01-28 02:23:45,578 INFO  DownloadStart - Begin downloagin images
+2017-01-28 02:23:45,578 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:23:46,689 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/1.jpg
+2017-01-28 02:23:46,698 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/1.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:23:47,987 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:23:47,988 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:23:48,008 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/2.jpg
+2017-01-28 02:23:48,010 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/2.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:23:49,107 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:23:49,108 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:23:49,134 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/3.jpg
+2017-01-28 02:23:49,135 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/3.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:23:50,455 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:23:50,456 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:23:50,472 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/4.jpg
+2017-01-28 02:23:50,473 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/4.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:23:51,896 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:23:51,897 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:23:51,918 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/5.jpg
+2017-01-28 02:23:51,919 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/5.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:23:53,416 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:23:53,418 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:23:53,435 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/6.jpg
+2017-01-28 02:23:53,436 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/6.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:23:54,826 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:23:54,828 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:23:54,845 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/7.jpg
+2017-01-28 02:23:54,846 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/7.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:23:56,295 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:23:56,296 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:23:56,345 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/8.jpg
+2017-01-28 02:23:56,346 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/8.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:23:58,748 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:23:58,749 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:23:58,764 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/9.jpg
+2017-01-28 02:23:58,764 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/9.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:00,054 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:00,055 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:00,074 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/10.jpg
+2017-01-28 02:24:00,075 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/10.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:01,415 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:01,417 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:01,432 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/11.jpg
+2017-01-28 02:24:01,433 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/11.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:02,746 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:02,747 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:02,764 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/12.jpg
+2017-01-28 02:24:02,765 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/12.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:04,132 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:04,133 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:04,151 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/13.jpg
+2017-01-28 02:24:04,152 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/13.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:06,813 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:06,815 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:06,837 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/14.jpg
+2017-01-28 02:24:06,838 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/14.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:08,274 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:08,276 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:08,289 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/15.jpg
+2017-01-28 02:24:08,290 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/15.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:09,612 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:09,614 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:09,640 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/16.jpg
+2017-01-28 02:24:09,641 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/16.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:11,036 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:11,037 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:11,052 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/17.jpg
+2017-01-28 02:24:11,053 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/17.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:12,429 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:12,430 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:12,448 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/18.jpg
+2017-01-28 02:24:12,449 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/18.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:14,737 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:14,738 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:14,754 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/19.jpg
+2017-01-28 02:24:14,754 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/19.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:16,040 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:16,041 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:16,057 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/20.jpg
+2017-01-28 02:24:16,058 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/20.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:17,247 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:17,248 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:17,267 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/21.jpg
+2017-01-28 02:24:17,268 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/21.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:18,544 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:18,545 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:18,560 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/22.jpg
+2017-01-28 02:24:18,561 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/22.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:19,833 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:19,834 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:19,855 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/23.jpg
+2017-01-28 02:24:19,856 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/23.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:22,149 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:22,150 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:22,165 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/24.jpg
+2017-01-28 02:24:22,166 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/24.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:24:24,246 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:24:24,248 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:24:24,264 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/saga/1/25.jpg
+2017-01-28 02:24:24,264 INFO  FileDownloadar - Executing request GET /images/manga/saga/1/25.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:00,340 INFO  DownloadStart - Begin download process with arguments: http://www.readcomics.tv/comic/, jpg, bone
+2017-01-28 02:26:01,953 INFO  LinkGenerator - Getting comic book links
+2017-01-28 02:26:01,963 INFO  LinkGenerator - Storing page links for volume number: 1
+2017-01-28 02:26:02,696 INFO  LinkGenerator - Storing page links for volume number: 2
+2017-01-28 02:26:03,471 INFO  LinkGenerator - Storing page links for volume number: 3
+2017-01-28 02:26:04,018 INFO  LinkGenerator - Finished getting comic book links, sorting..
+2017-01-28 02:26:04,022 INFO  DownloadStart - Begin downloagin images
+2017-01-28 02:26:04,028 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:04,937 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/1.jpg
+2017-01-28 02:26:04,955 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/1.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:06,953 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:06,955 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:06,981 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/2.jpg
+2017-01-28 02:26:06,982 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/2.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:08,146 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:08,148 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:08,170 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/3.jpg
+2017-01-28 02:26:08,171 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/3.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:09,662 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:09,663 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:09,681 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/4.jpg
+2017-01-28 02:26:09,682 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/4.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:10,816 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:10,818 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:10,840 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/5.jpg
+2017-01-28 02:26:10,841 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/5.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:12,577 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:12,579 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:12,598 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/6.jpg
+2017-01-28 02:26:12,599 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/6.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:14,298 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:14,300 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:14,316 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/7.jpg
+2017-01-28 02:26:14,316 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/7.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:16,197 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:16,198 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:16,214 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/8.jpg
+2017-01-28 02:26:16,215 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/8.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:20,162 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:20,163 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:20,178 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/9.jpg
+2017-01-28 02:26:20,178 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/9.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:22,183 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:22,185 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:22,204 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/10.jpg
+2017-01-28 02:26:22,205 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/10.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:23,848 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:23,850 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:23,869 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/11.jpg
+2017-01-28 02:26:23,870 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/11.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:26,231 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:26,232 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:26,250 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/12.jpg
+2017-01-28 02:26:26,251 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/12.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:28,325 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:28,326 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:28,341 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/13.jpg
+2017-01-28 02:26:28,342 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/13.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:30,141 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:30,142 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:30,161 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/14.jpg
+2017-01-28 02:26:30,161 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/14.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:31,863 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:31,865 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:31,882 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/15.jpg
+2017-01-28 02:26:31,883 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/15.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:34,175 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:34,176 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:34,194 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/16.jpg
+2017-01-28 02:26:34,196 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/16.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:36,035 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:36,036 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:36,053 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/17.jpg
+2017-01-28 02:26:36,054 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/17.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:43,013 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:43,015 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:43,034 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/18.jpg
+2017-01-28 02:26:43,035 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/18.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:44,446 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:44,447 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:44,461 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/19.jpg
+2017-01-28 02:26:44,461 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/19.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:46,456 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:46,457 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:46,475 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/20.jpg
+2017-01-28 02:26:46,475 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/20.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:48,299 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:48,300 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:48,316 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/21.jpg
+2017-01-28 02:26:48,317 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/21.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:51,676 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:51,677 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:51,690 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/22.jpg
+2017-01-28 02:26:51,691 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/22.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:53,742 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:53,744 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:53,763 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/23.jpg
+2017-01-28 02:26:53,764 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/23.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:55,813 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:55,814 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:55,831 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/24.jpg
+2017-01-28 02:26:55,832 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/24.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:26:58,036 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:26:58,038 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:26:58,053 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/25.jpg
+2017-01-28 02:26:58,054 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/25.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:01,362 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:01,363 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:01,384 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/26.jpg
+2017-01-28 02:27:01,384 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/26.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:04,242 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:04,243 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:04,257 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/27.jpg
+2017-01-28 02:27:04,257 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/27.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:06,465 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:06,466 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:06,479 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/28.jpg
+2017-01-28 02:27:06,479 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/28.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:08,146 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:08,148 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:08,167 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/29.jpg
+2017-01-28 02:27:08,167 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/29.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:10,204 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:10,205 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:10,219 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/30.jpg
+2017-01-28 02:27:10,220 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/30.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:21,119 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:21,120 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:21,137 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/31.jpg
+2017-01-28 02:27:21,137 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/31.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:23,953 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:23,954 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:23,969 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/32.jpg
+2017-01-28 02:27:23,970 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/32.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:25,843 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:25,844 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:25,859 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/33.jpg
+2017-01-28 02:27:25,860 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/33.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:28,324 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:28,325 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:28,341 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/34.jpg
+2017-01-28 02:27:28,341 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/34.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:30,490 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:30,491 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:30,505 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/35.jpg
+2017-01-28 02:27:30,505 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/35.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:32,654 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:32,655 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:32,669 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/36.jpg
+2017-01-28 02:27:32,670 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/36.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:36,115 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:36,116 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:36,129 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/37.jpg
+2017-01-28 02:27:36,129 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/37.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:40,418 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:40,419 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:40,433 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/38.jpg
+2017-01-28 02:27:40,433 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/38.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:42,426 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:42,427 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:42,442 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/39.jpg
+2017-01-28 02:27:42,443 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/39.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:44,612 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:44,614 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:44,632 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/40.jpg
+2017-01-28 02:27:44,632 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/40.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:46,865 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:46,866 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:46,880 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/41.jpg
+2017-01-28 02:27:46,881 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/41.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:48,713 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:48,714 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:48,727 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/42.jpg
+2017-01-28 02:27:48,727 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/42.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:50,725 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:50,726 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:50,740 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/43.jpg
+2017-01-28 02:27:50,741 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/43.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:53,974 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:53,976 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:53,991 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/44.jpg
+2017-01-28 02:27:53,992 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/44.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:55,717 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:55,718 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:55,737 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/45.jpg
+2017-01-28 02:27:55,738 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/45.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:57,627 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:57,629 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:57,656 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/46.jpg
+2017-01-28 02:27:57,658 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/46.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:27:59,806 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:27:59,807 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:27:59,825 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/47.jpg
+2017-01-28 02:27:59,826 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/47.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:01,912 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:01,914 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:01,947 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/48.jpg
+2017-01-28 02:28:01,948 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/48.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:04,225 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:04,226 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:04,242 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/49.jpg
+2017-01-28 02:28:04,243 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/49.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:06,450 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:06,451 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:06,466 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/50.jpg
+2017-01-28 02:28:06,466 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/50.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:10,016 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:10,017 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:10,031 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/51.jpg
+2017-01-28 02:28:10,031 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/51.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:13,482 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:13,485 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:13,508 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/52.jpg
+2017-01-28 02:28:13,512 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/52.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:15,323 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:15,324 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:15,340 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/53.jpg
+2017-01-28 02:28:15,340 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/53.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:17,463 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:17,464 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:17,502 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/54.jpg
+2017-01-28 02:28:17,503 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/54.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:19,556 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:19,557 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:19,570 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/55.jpg
+2017-01-28 02:28:19,570 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/55.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:23,378 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:23,379 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:23,398 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/56.jpg
+2017-01-28 02:28:23,399 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/56.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:25,400 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:25,401 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:25,433 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/57.jpg
+2017-01-28 02:28:25,434 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/57.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:27,557 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:27,557 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:27,574 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/58.jpg
+2017-01-28 02:28:27,575 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/58.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:30,080 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:30,081 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:30,096 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/59.jpg
+2017-01-28 02:28:30,096 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/59.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:32,085 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:32,086 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:32,115 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/60.jpg
+2017-01-28 02:28:32,117 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/60.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:34,274 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:34,275 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:34,308 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/61.jpg
+2017-01-28 02:28:34,309 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/61.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:36,302 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:36,303 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:36,321 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/62.jpg
+2017-01-28 02:28:36,322 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/62.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:38,795 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:38,797 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:38,816 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/63.jpg
+2017-01-28 02:28:38,817 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/63.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:41,481 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:41,482 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:41,499 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/64.jpg
+2017-01-28 02:28:41,500 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/64.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:48,244 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:48,245 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:48,258 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/65.jpg
+2017-01-28 02:28:48,258 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/65.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:55,398 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:55,398 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:55,414 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/66.jpg
+2017-01-28 02:28:55,415 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/66.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:28:58,058 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:28:58,059 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:28:58,075 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/67.jpg
+2017-01-28 02:28:58,075 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/67.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:01,555 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:01,556 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:01,568 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/68.jpg
+2017-01-28 02:29:01,569 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/68.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:04,346 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:04,346 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:04,361 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/69.jpg
+2017-01-28 02:29:04,361 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/69.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:06,481 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:06,482 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:06,495 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/70.jpg
+2017-01-28 02:29:06,495 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/70.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:08,278 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:08,279 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:08,292 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/71.jpg
+2017-01-28 02:29:08,292 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/71.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:12,009 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:12,010 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:12,025 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/72.jpg
+2017-01-28 02:29:12,026 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/72.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:13,778 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:13,779 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:13,796 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/73.jpg
+2017-01-28 02:29:13,797 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/73.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:15,487 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:15,488 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:15,501 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/74.jpg
+2017-01-28 02:29:15,502 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/74.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:19,445 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:19,446 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:19,459 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/75.jpg
+2017-01-28 02:29:19,459 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/75.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:21,294 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:21,294 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:21,308 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/76.jpg
+2017-01-28 02:29:21,308 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/76.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:24,679 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:24,680 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:24,701 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/77.jpg
+2017-01-28 02:29:24,702 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/77.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:26,747 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:26,748 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:26,764 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/78.jpg
+2017-01-28 02:29:26,764 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/78.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:29,415 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:29,415 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:29,428 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/79.jpg
+2017-01-28 02:29:29,428 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/79.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:31,735 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:31,736 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:31,751 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/80.jpg
+2017-01-28 02:29:31,751 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/80.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:34,118 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:34,118 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:34,132 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/81.jpg
+2017-01-28 02:29:34,132 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/81.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:37,702 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:37,704 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:37,739 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/82.jpg
+2017-01-28 02:29:37,741 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/82.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:41,107 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:41,108 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:41,125 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/83.jpg
+2017-01-28 02:29:41,125 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/83.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:43,408 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:43,409 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:43,421 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/84.jpg
+2017-01-28 02:29:43,422 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/84.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:45,585 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:45,586 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:45,596 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/85.jpg
+2017-01-28 02:29:45,596 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/85.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:49,883 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:49,885 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:49,898 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/86.jpg
+2017-01-28 02:29:49,898 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/86.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:52,002 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:52,004 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:52,036 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/87.jpg
+2017-01-28 02:29:52,037 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/87.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:54,026 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:54,027 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:54,040 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/88.jpg
+2017-01-28 02:29:54,040 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/88.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:56,111 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:56,111 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:56,125 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/89.jpg
+2017-01-28 02:29:56,125 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/89.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:57,913 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:57,915 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:57,931 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/90.jpg
+2017-01-28 02:29:57,932 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/90.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:29:59,604 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:29:59,604 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:29:59,619 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/91.jpg
+2017-01-28 02:29:59,620 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/91.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:03,224 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:03,226 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:03,243 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/92.jpg
+2017-01-28 02:30:03,244 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/92.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:06,435 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:06,437 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:06,454 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/93.jpg
+2017-01-28 02:30:06,455 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/93.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:08,378 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:08,379 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:08,394 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/94.jpg
+2017-01-28 02:30:08,394 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/94.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:10,022 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:10,023 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:10,041 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/95.jpg
+2017-01-28 02:30:10,041 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/95.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:11,712 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:11,714 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:11,732 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/96.jpg
+2017-01-28 02:30:11,732 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/96.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:13,677 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:13,678 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:13,693 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/97.jpg
+2017-01-28 02:30:13,694 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/97.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:15,785 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:15,786 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:15,819 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/98.jpg
+2017-01-28 02:30:15,819 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/98.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:20,663 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:20,664 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:20,677 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/99.jpg
+2017-01-28 02:30:20,677 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/99.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:22,376 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:22,377 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:22,395 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/100.jpg
+2017-01-28 02:30:22,395 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/100.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:24,162 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:24,163 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:24,177 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/101.jpg
+2017-01-28 02:30:24,178 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/101.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:27,318 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:27,320 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:27,342 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/102.jpg
+2017-01-28 02:30:27,343 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/102.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:29,386 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:29,387 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:29,398 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/103.jpg
+2017-01-28 02:30:29,398 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/103.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:31,169 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:31,170 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:31,187 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/104.jpg
+2017-01-28 02:30:31,187 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/104.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:36,048 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:36,050 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:36,070 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/105.jpg
+2017-01-28 02:30:36,071 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/105.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:40,054 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:40,055 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:40,072 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/106.jpg
+2017-01-28 02:30:40,073 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/106.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:47,833 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:47,834 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:47,846 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/107.jpg
+2017-01-28 02:30:47,847 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/107.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:53,006 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:53,007 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:53,019 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/108.jpg
+2017-01-28 02:30:53,020 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/108.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:55,236 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:55,237 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:55,252 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/109.jpg
+2017-01-28 02:30:55,252 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/109.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:57,354 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:57,354 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:57,364 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/110.jpg
+2017-01-28 02:30:57,365 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/110.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:30:59,563 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:30:59,564 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:30:59,578 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/111.jpg
+2017-01-28 02:30:59,579 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/111.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:04,124 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:04,125 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:04,138 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/112.jpg
+2017-01-28 02:31:04,138 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/112.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:08,142 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:08,143 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:08,155 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/113.jpg
+2017-01-28 02:31:08,156 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/113.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:12,532 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:12,533 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:12,552 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/114.jpg
+2017-01-28 02:31:12,552 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/114.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:16,322 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:16,323 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:16,336 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/115.jpg
+2017-01-28 02:31:16,336 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/115.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:20,147 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:20,147 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:20,164 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/116.jpg
+2017-01-28 02:31:20,165 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/116.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:23,645 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:23,646 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:23,663 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/117.jpg
+2017-01-28 02:31:23,664 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/117.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:26,466 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:26,467 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:26,481 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/118.jpg
+2017-01-28 02:31:26,482 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/118.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:29,951 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:29,951 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:29,966 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/119.jpg
+2017-01-28 02:31:29,966 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/119.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:33,971 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:33,972 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:33,985 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/120.jpg
+2017-01-28 02:31:33,985 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/120.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:39,874 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:39,875 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:39,888 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/121.jpg
+2017-01-28 02:31:39,888 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/121.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:45,851 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:45,852 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:45,865 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/122.jpg
+2017-01-28 02:31:45,866 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/122.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:48,752 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:48,753 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:48,766 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/123.jpg
+2017-01-28 02:31:48,767 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/123.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:50,618 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:50,619 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:50,637 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/124.jpg
+2017-01-28 02:31:50,638 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/124.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:52,585 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:52,586 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:52,601 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/125.jpg
+2017-01-28 02:31:52,601 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/125.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:55,646 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:55,647 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:55,669 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/126.jpg
+2017-01-28 02:31:55,672 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/126.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:31:59,906 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:31:59,909 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:31:59,936 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/127.jpg
+2017-01-28 02:31:59,937 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/127.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:03,160 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:03,161 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:03,175 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/128.jpg
+2017-01-28 02:32:03,175 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/128.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:05,112 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:05,115 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:05,139 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/129.jpg
+2017-01-28 02:32:05,140 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/129.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:08,778 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:08,779 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:08,796 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/130.jpg
+2017-01-28 02:32:08,797 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/130.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:12,021 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:12,022 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:12,036 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/131.jpg
+2017-01-28 02:32:12,037 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/131.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:14,638 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:14,639 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:14,655 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/132.jpg
+2017-01-28 02:32:14,656 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/132.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:18,583 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:18,584 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:18,600 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/133.jpg
+2017-01-28 02:32:18,600 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/133.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:20,633 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:20,634 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:20,647 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/134.jpg
+2017-01-28 02:32:20,647 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/134.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:23,878 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:23,879 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:23,893 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/135.jpg
+2017-01-28 02:32:23,893 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/135.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:27,029 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:27,030 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:27,043 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/136.jpg
+2017-01-28 02:32:27,043 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/136.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:29,076 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:29,077 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:29,098 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/137.jpg
+2017-01-28 02:32:29,099 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/137.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:33,126 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:33,127 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:33,144 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/138.jpg
+2017-01-28 02:32:33,153 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/138.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:36,598 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:36,599 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:36,625 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/139.jpg
+2017-01-28 02:32:36,626 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/139.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:48,275 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:48,276 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:48,289 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/140.jpg
+2017-01-28 02:32:48,289 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/140.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:53,655 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:53,656 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:53,673 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/141.jpg
+2017-01-28 02:32:53,674 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/141.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:32:58,796 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:32:58,797 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:32:58,809 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/142.jpg
+2017-01-28 02:32:58,809 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/142.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:33:00,431 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-28 02:33:00,432 INFO  FileDownloadar - establichins conection for download
+2017-01-28 02:33:00,470 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/143.jpg
+2017-01-28 02:33:00,470 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/143.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-28 02:33:02,422 INFO  FileDownloadar - 풵riting to file success? true

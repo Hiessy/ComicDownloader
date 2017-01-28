@@ -18,7 +18,7 @@ public class DownloadStart {
 
 	String globalLink = "http://www.readcomics.tv/comic/";
 	String extension = "jpg";
-	String comicName = "saga";
+	String comicName = "bone";
 
 	LOGGER.info("Begin download process with arguments: " + globalLink + ", " + extension + ", " + comicName);
 
@@ -27,9 +27,11 @@ public class DownloadStart {
 	    LOGGER.info("Begin downloagin images");
 	    Integer pageNumber = 1;
 	    // TODO guardar en un archivo los links de descagaras y el indice
-	    for (; pageNumber <= downloadLinks.size(); pageNumber++) {
+	    for (; pageNumber <= downloadLinks.size(); ) {
 		for (String link : downloadLinks.get(pageNumber.toString())) {
-		    fileDownloader.downloadFile(link, null, null, null, comicName, comicName + correctNumber(pageNumber) + "." + extension);
+		    String fileName = comicName + correctNumber(pageNumber++) + "." + extension;
+		    fileDownloader.downloadFile(link, null, null, null, comicName, fileName);
+
 		}
 	    }
 
