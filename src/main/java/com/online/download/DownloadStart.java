@@ -18,21 +18,23 @@ public class DownloadStart {
 
 	String globalLink = "http://www.readcomics.tv/comic/";
 	String extension = "jpg";
-	String comicName = "bone";
+	String comicName = "birthright";
 
 	LOGGER.info("Begin download process with arguments: " + globalLink + ", " + extension + ", " + comicName);
 
 	try {
 	    Map<String, List<String>> downloadLinks = linkGenerator.generateDownloadLinks(globalLink, comicName);
 	    LOGGER.info("Begin downloagin images");
+	    Integer volumeNumber = 1;
 	    Integer pageNumber = 1;
 	    // TODO guardar en un archivo los links de descagaras y el indice
-	    for (; pageNumber <= downloadLinks.size(); ) {
-		for (String link : downloadLinks.get(pageNumber.toString())) {
+	    for (; volumeNumber <= downloadLinks.size(); ) {
+		for (String link : downloadLinks.get(volumeNumber.toString())) {
 		    String fileName = comicName + correctNumber(pageNumber++) + "." + extension;
 		    fileDownloader.downloadFile(link, null, null, null, comicName, fileName);
-
+		    
 		}
+		volumeNumber++;
 	    }
 
 	} catch (Exception e) {

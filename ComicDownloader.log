@@ -24253,3 +24253,796 @@
 2017-01-28 02:33:00,470 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/bone/1/143.jpg
 2017-01-28 02:33:00,470 INFO  FileDownloadar - Executing request GET /images/manga/bone/1/143.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
 2017-01-28 02:33:02,422 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:40:36,315 INFO  DownloadStart - Begin download process with arguments: http://www.readcomics.tv/comic/, jpg, birthright
+2017-01-29 16:40:37,695 INFO  LinkGenerator - Getting comic book links
+2017-01-29 16:40:37,705 INFO  LinkGenerator - Storing page links for volume number: 1
+2017-01-29 16:40:38,416 INFO  LinkGenerator - Storing page links for volume number: 2
+2017-01-29 16:40:39,088 INFO  LinkGenerator - Storing page links for volume number: 3
+2017-01-29 16:40:39,608 INFO  LinkGenerator - Storing page links for volume number: 4
+2017-01-29 16:40:40,270 INFO  LinkGenerator - Storing page links for volume number: 5
+2017-01-29 16:40:40,939 INFO  LinkGenerator - Storing page links for volume number: 6
+2017-01-29 16:40:41,528 INFO  LinkGenerator - Storing page links for volume number: 7
+2017-01-29 16:40:42,011 INFO  LinkGenerator - Storing page links for volume number: 8
+2017-01-29 16:40:42,568 INFO  LinkGenerator - Storing page links for volume number: 9
+2017-01-29 16:40:43,039 INFO  LinkGenerator - Storing page links for volume number: 10
+2017-01-29 16:40:43,594 INFO  LinkGenerator - Storing page links for volume number: 11
+2017-01-29 16:40:44,086 INFO  LinkGenerator - Storing page links for volume number: 12
+2017-01-29 16:40:44,584 INFO  LinkGenerator - Storing page links for volume number: 13
+2017-01-29 16:40:45,086 INFO  LinkGenerator - Storing page links for volume number: 14
+2017-01-29 16:40:45,597 INFO  LinkGenerator - Storing page links for volume number: 15
+2017-01-29 16:40:46,257 INFO  LinkGenerator - Storing page links for volume number: 16
+2017-01-29 16:40:46,798 INFO  LinkGenerator - Storing page links for volume number: 17
+2017-01-29 16:40:47,290 INFO  LinkGenerator - Storing page links for volume number: 18
+2017-01-29 16:40:47,854 INFO  LinkGenerator - Storing page links for volume number: 19
+2017-01-29 16:40:48,342 INFO  LinkGenerator - Storing page links for volume number: 20
+2017-01-29 16:40:48,867 INFO  LinkGenerator - Storing page links for volume number: 21
+2017-01-29 16:40:49,377 INFO  LinkGenerator - Storing page links for volume number: 22
+2017-01-29 16:40:49,870 INFO  LinkGenerator - Storing page links for volume number: 23
+2017-01-29 16:40:50,385 INFO  LinkGenerator - Finished getting comic book links, sorting..
+2017-01-29 16:40:50,386 INFO  DownloadStart - Begin downloagin images
+2017-01-29 16:40:50,387 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:40:51,564 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/1.jpg
+2017-01-29 16:40:51,585 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/1.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:40:52,118 INFO  FileWriter - Creating download directory: birthright
+2017-01-29 16:40:52,119 INFO  FileWriter - Output directory succesfully created
+2017-01-29 16:40:53,808 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:40:53,810 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:40:53,838 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/2.jpg
+2017-01-29 16:40:53,839 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/2.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:40:58,877 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:40:58,879 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:40:58,901 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/3.jpg
+2017-01-29 16:40:58,902 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/3.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:00,499 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:00,500 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:00,522 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/4.jpg
+2017-01-29 16:41:00,524 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/4.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:02,155 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:02,157 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:02,180 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/5.jpg
+2017-01-29 16:41:02,181 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/5.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:03,963 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:03,964 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:03,982 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/6.jpg
+2017-01-29 16:41:03,983 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/6.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:05,822 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:05,823 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:05,838 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/7.jpg
+2017-01-29 16:41:05,839 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/7.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:07,594 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:07,595 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:07,612 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/8.jpg
+2017-01-29 16:41:07,612 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/8.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:11,627 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:11,628 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:11,646 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/9.jpg
+2017-01-29 16:41:11,646 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/9.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:13,279 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:13,280 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:13,297 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/10.jpg
+2017-01-29 16:41:13,298 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/10.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:15,152 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:15,154 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:15,168 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/11.jpg
+2017-01-29 16:41:15,169 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/11.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:16,940 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:16,942 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:16,957 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/12.jpg
+2017-01-29 16:41:16,958 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/12.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:18,601 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:18,602 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:18,617 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/13.jpg
+2017-01-29 16:41:18,618 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/13.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:21,967 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:21,968 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:21,984 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/14.jpg
+2017-01-29 16:41:21,985 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/14.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:23,440 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:23,441 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:23,457 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/15.jpg
+2017-01-29 16:41:23,458 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/15.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:24,827 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:24,828 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:24,848 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/16.jpg
+2017-01-29 16:41:24,849 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/16.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:28,780 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:28,782 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:28,801 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/17.jpg
+2017-01-29 16:41:28,802 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/17.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:30,409 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:30,410 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:30,424 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/18.jpg
+2017-01-29 16:41:30,424 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/18.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:33,094 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:33,096 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:33,117 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/19.jpg
+2017-01-29 16:41:33,118 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/19.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:34,753 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:34,754 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:34,771 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/20.jpg
+2017-01-29 16:41:34,771 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/20.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:38,112 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:38,113 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:38,129 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/21.jpg
+2017-01-29 16:41:38,129 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/21.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:41,141 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:41,142 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:41,158 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/22.jpg
+2017-01-29 16:41:41,158 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/22.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:42,674 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:42,675 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:42,717 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/23.jpg
+2017-01-29 16:41:42,718 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/23.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:45,487 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:45,488 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:45,507 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/24.jpg
+2017-01-29 16:41:45,508 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/24.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:47,158 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:47,159 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:47,173 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/25.jpg
+2017-01-29 16:41:47,174 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/25.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:50,094 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:50,095 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:50,110 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/26.jpg
+2017-01-29 16:41:50,111 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/26.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:52,176 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:52,177 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:52,191 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/27.jpg
+2017-01-29 16:41:52,192 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/27.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:54,135 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:54,137 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:54,155 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/28.jpg
+2017-01-29 16:41:54,156 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/28.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:56,345 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:41:56,346 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:41:56,360 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/29.jpg
+2017-01-29 16:41:56,360 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/29.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:41:58,870 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:42:57,446 INFO  DownloadStart - Begin download process with arguments: http://www.readcomics.tv/comic/, jpg, birthright
+2017-01-29 16:42:58,882 INFO  LinkGenerator - Getting comic book links
+2017-01-29 16:42:58,888 INFO  LinkGenerator - Storing page links for volume number: 1
+2017-01-29 16:42:59,407 INFO  LinkGenerator - Storing page links for volume number: 2
+2017-01-29 16:43:00,119 INFO  LinkGenerator - Storing page links for volume number: 3
+2017-01-29 16:43:00,629 INFO  LinkGenerator - Storing page links for volume number: 4
+2017-01-29 16:43:01,138 INFO  LinkGenerator - Storing page links for volume number: 5
+2017-01-29 16:43:01,630 INFO  LinkGenerator - Storing page links for volume number: 6
+2017-01-29 16:43:02,124 INFO  LinkGenerator - Storing page links for volume number: 7
+2017-01-29 16:43:02,634 INFO  LinkGenerator - Storing page links for volume number: 8
+2017-01-29 16:43:03,147 INFO  LinkGenerator - Storing page links for volume number: 9
+2017-01-29 16:43:03,660 INFO  LinkGenerator - Storing page links for volume number: 10
+2017-01-29 16:43:04,129 INFO  LinkGenerator - Storing page links for volume number: 11
+2017-01-29 16:43:04,607 INFO  LinkGenerator - Storing page links for volume number: 12
+2017-01-29 16:43:05,088 INFO  LinkGenerator - Storing page links for volume number: 13
+2017-01-29 16:43:05,589 INFO  LinkGenerator - Storing page links for volume number: 14
+2017-01-29 16:43:06,105 INFO  LinkGenerator - Storing page links for volume number: 15
+2017-01-29 16:43:06,600 INFO  LinkGenerator - Storing page links for volume number: 16
+2017-01-29 16:43:07,087 INFO  LinkGenerator - Storing page links for volume number: 17
+2017-01-29 16:43:07,559 INFO  LinkGenerator - Storing page links for volume number: 18
+2017-01-29 16:43:08,071 INFO  LinkGenerator - Storing page links for volume number: 19
+2017-01-29 16:43:08,554 INFO  LinkGenerator - Storing page links for volume number: 20
+2017-01-29 16:43:09,053 INFO  LinkGenerator - Storing page links for volume number: 21
+2017-01-29 16:43:09,547 INFO  LinkGenerator - Storing page links for volume number: 22
+2017-01-29 16:43:10,059 INFO  LinkGenerator - Storing page links for volume number: 23
+2017-01-29 16:43:10,703 INFO  LinkGenerator - Finished getting comic book links, sorting..
+2017-01-29 16:43:10,704 INFO  DownloadStart - Begin downloagin images
+2017-01-29 16:44:57,179 INFO  DownloadStart - Begin download process with arguments: http://www.readcomics.tv/comic/, jpg, birthright
+2017-01-29 16:44:58,631 INFO  LinkGenerator - Getting comic book links
+2017-01-29 16:44:58,638 INFO  LinkGenerator - Storing page links for volume number: 1
+2017-01-29 16:44:59,104 INFO  LinkGenerator - Storing page links for volume number: 2
+2017-01-29 16:44:59,610 INFO  LinkGenerator - Storing page links for volume number: 3
+2017-01-29 16:45:00,120 INFO  LinkGenerator - Storing page links for volume number: 4
+2017-01-29 16:45:00,616 INFO  LinkGenerator - Storing page links for volume number: 5
+2017-01-29 16:45:01,141 INFO  LinkGenerator - Storing page links for volume number: 6
+2017-01-29 16:45:01,653 INFO  LinkGenerator - Storing page links for volume number: 7
+2017-01-29 16:45:02,129 INFO  LinkGenerator - Storing page links for volume number: 8
+2017-01-29 16:45:02,615 INFO  LinkGenerator - Storing page links for volume number: 9
+2017-01-29 16:45:03,214 INFO  LinkGenerator - Storing page links for volume number: 10
+2017-01-29 16:45:03,696 INFO  LinkGenerator - Storing page links for volume number: 11
+2017-01-29 16:45:04,173 INFO  LinkGenerator - Storing page links for volume number: 12
+2017-01-29 16:45:04,837 INFO  LinkGenerator - Storing page links for volume number: 13
+2017-01-29 16:45:06,627 INFO  LinkGenerator - Storing page links for volume number: 14
+2017-01-29 16:45:07,137 INFO  LinkGenerator - Storing page links for volume number: 15
+2017-01-29 16:45:07,702 INFO  LinkGenerator - Storing page links for volume number: 16
+2017-01-29 16:45:08,180 INFO  LinkGenerator - Storing page links for volume number: 17
+2017-01-29 16:45:08,656 INFO  LinkGenerator - Storing page links for volume number: 18
+2017-01-29 16:45:09,157 INFO  LinkGenerator - Storing page links for volume number: 19
+2017-01-29 16:45:09,808 INFO  LinkGenerator - Storing page links for volume number: 20
+2017-01-29 16:45:10,307 INFO  LinkGenerator - Storing page links for volume number: 21
+2017-01-29 16:45:10,831 INFO  LinkGenerator - Storing page links for volume number: 22
+2017-01-29 16:45:11,362 INFO  LinkGenerator - Storing page links for volume number: 23
+2017-01-29 16:45:11,834 INFO  LinkGenerator - Finished getting comic book links, sorting..
+2017-01-29 16:45:11,835 INFO  DownloadStart - Begin downloagin images
+2017-01-29 16:45:37,816 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:45:38,909 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/1.jpg
+2017-01-29 16:45:38,936 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/1.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:45:41,069 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:45:41,072 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:45:41,098 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/2.jpg
+2017-01-29 16:45:41,099 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/2.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:45:49,680 INFO  DownloadStart - Begin download process with arguments: http://www.readcomics.tv/comic/, jpg, birthright
+2017-01-29 16:45:51,057 INFO  LinkGenerator - Getting comic book links
+2017-01-29 16:45:51,064 INFO  LinkGenerator - Storing page links for volume number: 1
+2017-01-29 16:45:51,595 INFO  LinkGenerator - Storing page links for volume number: 2
+2017-01-29 16:45:52,127 INFO  LinkGenerator - Storing page links for volume number: 3
+2017-01-29 16:45:52,683 INFO  LinkGenerator - Storing page links for volume number: 4
+2017-01-29 16:45:53,222 INFO  LinkGenerator - Storing page links for volume number: 5
+2017-01-29 16:45:53,757 INFO  LinkGenerator - Storing page links for volume number: 6
+2017-01-29 16:45:54,437 INFO  LinkGenerator - Storing page links for volume number: 7
+2017-01-29 16:45:54,956 INFO  LinkGenerator - Storing page links for volume number: 8
+2017-01-29 16:45:55,446 INFO  LinkGenerator - Storing page links for volume number: 9
+2017-01-29 16:45:56,113 INFO  LinkGenerator - Storing page links for volume number: 10
+2017-01-29 16:45:56,646 INFO  LinkGenerator - Storing page links for volume number: 11
+2017-01-29 16:45:57,166 INFO  LinkGenerator - Storing page links for volume number: 12
+2017-01-29 16:45:57,671 INFO  LinkGenerator - Storing page links for volume number: 13
+2017-01-29 16:45:58,169 INFO  LinkGenerator - Storing page links for volume number: 14
+2017-01-29 16:45:58,684 INFO  LinkGenerator - Storing page links for volume number: 15
+2017-01-29 16:45:59,338 INFO  LinkGenerator - Storing page links for volume number: 16
+2017-01-29 16:45:59,848 INFO  LinkGenerator - Storing page links for volume number: 17
+2017-01-29 16:46:00,345 INFO  LinkGenerator - Storing page links for volume number: 18
+2017-01-29 16:46:00,840 INFO  LinkGenerator - Storing page links for volume number: 19
+2017-01-29 16:46:01,335 INFO  LinkGenerator - Storing page links for volume number: 20
+2017-01-29 16:46:01,866 INFO  LinkGenerator - Storing page links for volume number: 21
+2017-01-29 16:46:02,384 INFO  LinkGenerator - Storing page links for volume number: 22
+2017-01-29 16:46:02,942 INFO  LinkGenerator - Storing page links for volume number: 23
+2017-01-29 16:46:03,455 INFO  LinkGenerator - Finished getting comic book links, sorting..
+2017-01-29 16:46:03,456 INFO  DownloadStart - Begin downloagin images
+2017-01-29 16:47:13,107 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:47:16,531 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/1.jpg
+2017-01-29 16:47:16,596 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/1.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:47:23,583 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:48:47,230 INFO  DownloadStart - Begin download process with arguments: http://www.readcomics.tv/comic/, jpg, birthright
+2017-01-29 16:48:48,640 INFO  LinkGenerator - Getting comic book links
+2017-01-29 16:48:48,647 INFO  LinkGenerator - Storing page links for volume number: 1
+2017-01-29 16:48:49,333 INFO  LinkGenerator - Storing page links for volume number: 2
+2017-01-29 16:48:49,869 INFO  LinkGenerator - Storing page links for volume number: 3
+2017-01-29 16:48:50,426 INFO  LinkGenerator - Storing page links for volume number: 4
+2017-01-29 16:48:50,933 INFO  LinkGenerator - Storing page links for volume number: 5
+2017-01-29 16:48:51,433 INFO  LinkGenerator - Storing page links for volume number: 6
+2017-01-29 16:48:51,962 INFO  LinkGenerator - Storing page links for volume number: 7
+2017-01-29 16:48:52,436 INFO  LinkGenerator - Storing page links for volume number: 8
+2017-01-29 16:48:52,895 INFO  LinkGenerator - Storing page links for volume number: 9
+2017-01-29 16:48:53,392 INFO  LinkGenerator - Storing page links for volume number: 10
+2017-01-29 16:48:53,894 INFO  LinkGenerator - Storing page links for volume number: 11
+2017-01-29 16:48:54,400 INFO  LinkGenerator - Storing page links for volume number: 12
+2017-01-29 16:48:55,070 INFO  LinkGenerator - Storing page links for volume number: 13
+2017-01-29 16:48:55,549 INFO  LinkGenerator - Storing page links for volume number: 14
+2017-01-29 16:48:56,064 INFO  LinkGenerator - Storing page links for volume number: 15
+2017-01-29 16:48:56,568 INFO  LinkGenerator - Storing page links for volume number: 16
+2017-01-29 16:48:57,074 INFO  LinkGenerator - Storing page links for volume number: 17
+2017-01-29 16:48:57,572 INFO  LinkGenerator - Storing page links for volume number: 18
+2017-01-29 16:48:58,062 INFO  LinkGenerator - Storing page links for volume number: 19
+2017-01-29 16:48:58,564 INFO  LinkGenerator - Storing page links for volume number: 20
+2017-01-29 16:48:59,301 INFO  LinkGenerator - Storing page links for volume number: 21
+2017-01-29 16:48:59,798 INFO  LinkGenerator - Storing page links for volume number: 22
+2017-01-29 16:49:00,284 INFO  LinkGenerator - Storing page links for volume number: 23
+2017-01-29 16:49:00,801 INFO  LinkGenerator - Finished getting comic book links, sorting..
+2017-01-29 16:49:00,802 INFO  DownloadStart - Begin downloagin images
+2017-01-29 16:49:00,804 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:01,905 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/1.jpg
+2017-01-29 16:49:01,926 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/1.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:03,983 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:03,985 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:04,009 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/2.jpg
+2017-01-29 16:49:04,010 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/2.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:05,935 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:05,937 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:05,956 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/3.jpg
+2017-01-29 16:49:05,957 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/3.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:09,252 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:09,254 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:09,270 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/4.jpg
+2017-01-29 16:49:09,271 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/4.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:10,946 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:10,948 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:10,969 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/5.jpg
+2017-01-29 16:49:10,970 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/5.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:12,622 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:12,624 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:12,646 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/6.jpg
+2017-01-29 16:49:12,647 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/6.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:14,492 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:14,493 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:14,509 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/7.jpg
+2017-01-29 16:49:14,510 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/7.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:16,163 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:16,165 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:16,180 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/8.jpg
+2017-01-29 16:49:16,181 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/8.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:17,816 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:17,817 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:17,835 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/9.jpg
+2017-01-29 16:49:17,836 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/9.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:19,411 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:19,412 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:19,426 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/10.jpg
+2017-01-29 16:49:19,427 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/10.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:21,227 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:21,229 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:21,242 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/11.jpg
+2017-01-29 16:49:21,243 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/11.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:22,952 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:22,953 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:22,967 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/12.jpg
+2017-01-29 16:49:22,968 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/12.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:24,578 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:24,580 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:24,595 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/13.jpg
+2017-01-29 16:49:24,596 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/13.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:28,324 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:28,325 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:28,341 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/14.jpg
+2017-01-29 16:49:28,342 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/14.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:29,716 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:29,717 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:29,733 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/15.jpg
+2017-01-29 16:49:29,734 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/15.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:31,279 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:31,280 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:31,308 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/16.jpg
+2017-01-29 16:49:31,308 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/16.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:32,866 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:32,867 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:32,882 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/17.jpg
+2017-01-29 16:49:32,883 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/17.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:34,310 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:34,312 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:34,324 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/18.jpg
+2017-01-29 16:49:34,325 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/18.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:36,056 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:36,058 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:36,071 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/19.jpg
+2017-01-29 16:49:36,072 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/19.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:37,778 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:37,780 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:37,793 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/20.jpg
+2017-01-29 16:49:37,794 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/20.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:39,412 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:39,413 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:39,430 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/21.jpg
+2017-01-29 16:49:39,431 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/21.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:41,091 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:41,092 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:41,110 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/22.jpg
+2017-01-29 16:49:41,111 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/22.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:44,556 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:44,558 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:44,573 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/23.jpg
+2017-01-29 16:49:44,573 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/23.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:47,419 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:47,420 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:47,440 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/24.jpg
+2017-01-29 16:49:47,441 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/24.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:49,229 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:49,230 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:49,251 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/25.jpg
+2017-01-29 16:49:49,251 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/25.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:50,834 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:50,835 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:50,854 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/26.jpg
+2017-01-29 16:49:50,854 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/26.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:52,919 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:52,920 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:52,935 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/27.jpg
+2017-01-29 16:49:52,936 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/27.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:54,683 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:54,684 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:54,698 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/28.jpg
+2017-01-29 16:49:54,698 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/28.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:56,351 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:56,352 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:56,368 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/29.jpg
+2017-01-29 16:49:56,369 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/29.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:49:58,881 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:49:58,882 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:49:58,905 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/1.jpg
+2017-01-29 16:49:58,907 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/1.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:00,652 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:00,653 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:00,666 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/2.jpg
+2017-01-29 16:50:00,667 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/2.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:04,621 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:04,622 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:04,640 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/3.jpg
+2017-01-29 16:50:04,641 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/3.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:06,175 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:06,176 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:06,217 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/4.jpg
+2017-01-29 16:50:06,218 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/4.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:08,029 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:08,030 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:08,045 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/5.jpg
+2017-01-29 16:50:08,046 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/5.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:09,616 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:09,617 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:09,630 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/6.jpg
+2017-01-29 16:50:09,631 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/6.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:11,006 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:11,007 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:11,027 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/7.jpg
+2017-01-29 16:50:11,032 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/7.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:14,107 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:14,108 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:14,122 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/8.jpg
+2017-01-29 16:50:14,123 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/8.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:17,814 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:17,816 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:17,832 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/9.jpg
+2017-01-29 16:50:17,833 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/9.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:19,434 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:19,435 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:19,452 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/10.jpg
+2017-01-29 16:50:19,453 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/10.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:21,238 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:21,239 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:21,252 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/11.jpg
+2017-01-29 16:50:21,253 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/11.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:23,048 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:23,049 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:23,064 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/12.jpg
+2017-01-29 16:50:23,064 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/12.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:24,836 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:24,837 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:24,856 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/13.jpg
+2017-01-29 16:50:24,857 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/13.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:26,537 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:26,538 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:26,551 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/14.jpg
+2017-01-29 16:50:26,552 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/14.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:28,321 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:28,322 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:28,335 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/15.jpg
+2017-01-29 16:50:28,335 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/15.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:30,126 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:30,127 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:30,141 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/16.jpg
+2017-01-29 16:50:30,142 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/16.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:31,950 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:31,951 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:31,969 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/17.jpg
+2017-01-29 16:50:31,969 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/17.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:34,319 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:34,320 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:34,335 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/18.jpg
+2017-01-29 16:50:34,336 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/18.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:36,133 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:36,134 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:36,148 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/19.jpg
+2017-01-29 16:50:36,148 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/19.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:37,844 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:37,845 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:37,860 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/20.jpg
+2017-01-29 16:50:37,861 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/20.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:39,415 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:39,416 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:39,430 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/21.jpg
+2017-01-29 16:50:39,431 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/21.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:41,239 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:41,240 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:41,255 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/22.jpg
+2017-01-29 16:50:41,255 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/22.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:43,034 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:43,035 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:43,053 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/23.jpg
+2017-01-29 16:50:43,054 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/23.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:44,696 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:44,698 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:44,711 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/24.jpg
+2017-01-29 16:50:44,712 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/24.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:46,603 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:46,604 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:46,617 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/25.jpg
+2017-01-29 16:50:46,617 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/25.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:48,856 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:48,857 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:48,870 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/26.jpg
+2017-01-29 16:50:48,870 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/26.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:54,869 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:54,871 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:54,885 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/27.jpg
+2017-01-29 16:50:54,885 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/27.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:58,183 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:58,184 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:58,202 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/28.jpg
+2017-01-29 16:50:58,203 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/28.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:50:59,900 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:50:59,901 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:50:59,917 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/29.jpg
+2017-01-29 16:50:59,918 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/29.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:01,661 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:01,662 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:01,674 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/30.jpg
+2017-01-29 16:51:01,675 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/30.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:04,341 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:04,342 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:04,356 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/1.jpg
+2017-01-29 16:51:04,356 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/1.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:06,209 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:06,210 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:06,227 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/2.jpg
+2017-01-29 16:51:06,227 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/2.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:08,801 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:08,802 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:08,816 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/3.jpg
+2017-01-29 16:51:08,816 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/3.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:10,499 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:10,500 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:10,517 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/4.jpg
+2017-01-29 16:51:10,518 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/4.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:12,574 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:12,576 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:12,589 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/5.jpg
+2017-01-29 16:51:12,590 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/5.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:14,324 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:14,325 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:14,337 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/6.jpg
+2017-01-29 16:51:14,337 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/6.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:16,054 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:16,055 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:16,069 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/7.jpg
+2017-01-29 16:51:16,070 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/7.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:17,788 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:17,789 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:17,801 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/8.jpg
+2017-01-29 16:51:17,802 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/8.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:19,517 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:19,518 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:19,532 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/9.jpg
+2017-01-29 16:51:19,532 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/9.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:21,293 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:21,295 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:21,310 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/10.jpg
+2017-01-29 16:51:21,310 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/10.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:22,951 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:22,952 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:22,964 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/11.jpg
+2017-01-29 16:51:22,964 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/11.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:27,475 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:27,476 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:27,489 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/12.jpg
+2017-01-29 16:51:27,490 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/12.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:29,569 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:29,570 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:29,583 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/13.jpg
+2017-01-29 16:51:29,584 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/13.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:31,351 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:31,352 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:31,364 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/14.jpg
+2017-01-29 16:51:31,364 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/14.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:33,093 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:33,095 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:33,110 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/15.jpg
+2017-01-29 16:51:33,111 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/15.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:36,832 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:36,833 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:36,849 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/16.jpg
+2017-01-29 16:51:36,849 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/16.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:38,844 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:38,845 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:38,860 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/17.jpg
+2017-01-29 16:51:38,861 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/17.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:40,790 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:40,791 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:40,803 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/18.jpg
+2017-01-29 16:51:40,804 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/18.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:45,692 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:45,693 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:45,705 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/19.jpg
+2017-01-29 16:51:45,706 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/19.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:49,137 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:49,138 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:49,152 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/20.jpg
+2017-01-29 16:51:49,153 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/20.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:50,810 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:50,811 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:50,825 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/21.jpg
+2017-01-29 16:51:50,826 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/21.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:52,861 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:52,862 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:52,877 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/22.jpg
+2017-01-29 16:51:52,878 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/22.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:55,464 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:55,465 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:55,481 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/23.jpg
+2017-01-29 16:51:55,482 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/23.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:57,109 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:57,110 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:57,122 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/24.jpg
+2017-01-29 16:51:57,123 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/24.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:51:59,926 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:51:59,927 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:51:59,942 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/25.jpg
+2017-01-29 16:51:59,942 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/25.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:52:02,177 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:52:02,178 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:52:02,196 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/26.jpg
+2017-01-29 16:52:02,197 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/26.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:52:04,066 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:52:04,067 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:52:04,083 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/27.jpg
+2017-01-29 16:52:04,084 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/27.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:52:05,926 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:52:05,927 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:52:05,941 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/28.jpg
+2017-01-29 16:52:05,941 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/28.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:52:07,355 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:52:07,356 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:52:07,370 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/3/29.jpg
+2017-01-29 16:52:07,371 INFO  FileDownloadar - Executing request GET /images/manga/birthright/3/29.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:04,582 INFO  DownloadStart - Begin download process with arguments: http://www.readcomics.tv/comic/, jpg, birthright
+2017-01-29 16:53:06,017 INFO  LinkGenerator - Getting comic book links
+2017-01-29 16:53:06,022 INFO  LinkGenerator - Storing page links for volume number: 1
+2017-01-29 16:53:06,745 INFO  LinkGenerator - Storing page links for volume number: 2
+2017-01-29 16:53:07,260 INFO  LinkGenerator - Storing page links for volume number: 3
+2017-01-29 16:53:07,815 INFO  LinkGenerator - Storing page links for volume number: 4
+2017-01-29 16:53:08,451 INFO  LinkGenerator - Storing page links for volume number: 5
+2017-01-29 16:53:09,097 INFO  LinkGenerator - Storing page links for volume number: 6
+2017-01-29 16:53:09,614 INFO  LinkGenerator - Storing page links for volume number: 7
+2017-01-29 16:53:10,152 INFO  LinkGenerator - Storing page links for volume number: 8
+2017-01-29 16:53:10,613 INFO  LinkGenerator - Storing page links for volume number: 9
+2017-01-29 16:53:11,125 INFO  LinkGenerator - Storing page links for volume number: 10
+2017-01-29 16:53:11,674 INFO  LinkGenerator - Storing page links for volume number: 11
+2017-01-29 16:53:12,190 INFO  LinkGenerator - Storing page links for volume number: 12
+2017-01-29 16:53:12,853 INFO  LinkGenerator - Storing page links for volume number: 13
+2017-01-29 16:53:13,351 INFO  LinkGenerator - Storing page links for volume number: 14
+2017-01-29 16:53:14,014 INFO  LinkGenerator - Storing page links for volume number: 15
+2017-01-29 16:53:14,507 INFO  LinkGenerator - Storing page links for volume number: 16
+2017-01-29 16:53:15,002 INFO  LinkGenerator - Storing page links for volume number: 17
+2017-01-29 16:53:15,505 INFO  LinkGenerator - Storing page links for volume number: 18
+2017-01-29 16:53:16,025 INFO  LinkGenerator - Storing page links for volume number: 19
+2017-01-29 16:53:16,551 INFO  LinkGenerator - Storing page links for volume number: 20
+2017-01-29 16:53:17,106 INFO  LinkGenerator - Storing page links for volume number: 21
+2017-01-29 16:53:17,631 INFO  LinkGenerator - Storing page links for volume number: 22
+2017-01-29 16:53:18,247 INFO  LinkGenerator - Storing page links for volume number: 23
+2017-01-29 16:53:18,778 INFO  LinkGenerator - Finished getting comic book links, sorting..
+2017-01-29 16:53:18,779 INFO  DownloadStart - Begin downloagin images
+2017-01-29 16:53:18,780 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:19,716 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/1.jpg
+2017-01-29 16:53:19,729 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/1.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:22,847 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:22,849 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:22,874 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/2.jpg
+2017-01-29 16:53:22,875 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/2.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:25,086 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:25,088 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:25,107 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/3.jpg
+2017-01-29 16:53:25,108 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/3.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:26,971 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:26,972 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:26,992 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/4.jpg
+2017-01-29 16:53:26,993 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/4.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:28,670 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:28,671 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:28,689 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/5.jpg
+2017-01-29 16:53:28,689 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/5.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:32,179 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:32,180 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:32,199 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/6.jpg
+2017-01-29 16:53:32,200 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/6.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:33,919 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:33,921 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:33,935 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/7.jpg
+2017-01-29 16:53:33,936 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/7.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:35,579 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:35,580 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:35,595 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/8.jpg
+2017-01-29 16:53:35,596 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/8.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:37,180 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:37,181 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:37,195 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/9.jpg
+2017-01-29 16:53:37,196 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/9.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:38,968 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:38,970 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:38,985 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/10.jpg
+2017-01-29 16:53:38,985 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/10.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:40,743 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:40,745 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:40,761 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/11.jpg
+2017-01-29 16:53:40,762 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/11.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:42,589 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:42,590 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:42,600 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/12.jpg
+2017-01-29 16:53:42,600 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/12.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:44,377 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:44,378 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:44,396 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/13.jpg
+2017-01-29 16:53:44,396 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/13.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:45,959 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:45,960 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:45,979 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/14.jpg
+2017-01-29 16:53:45,980 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/14.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:47,485 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:47,486 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:47,522 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/15.jpg
+2017-01-29 16:53:47,523 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/15.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:49,004 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:49,006 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:49,028 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/16.jpg
+2017-01-29 16:53:49,029 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/16.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:50,753 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:50,754 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:50,769 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/17.jpg
+2017-01-29 16:53:50,770 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/17.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:53,319 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:53,320 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:53,334 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/18.jpg
+2017-01-29 16:53:53,335 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/18.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:55,198 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:55,199 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:55,216 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/19.jpg
+2017-01-29 16:53:55,216 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/19.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:56,859 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:56,860 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:56,875 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/20.jpg
+2017-01-29 16:53:56,875 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/20.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:53:59,685 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:53:59,687 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:53:59,706 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/21.jpg
+2017-01-29 16:53:59,707 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/21.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:01,383 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:01,384 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:01,402 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/22.jpg
+2017-01-29 16:54:01,402 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/22.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:04,735 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:04,736 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:04,755 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/23.jpg
+2017-01-29 16:54:04,755 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/23.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:06,246 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:06,247 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:06,268 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/24.jpg
+2017-01-29 16:54:06,269 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/24.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:09,140 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:09,141 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:09,156 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/25.jpg
+2017-01-29 16:54:09,157 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/25.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:13,177 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:13,178 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:13,198 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/26.jpg
+2017-01-29 16:54:13,199 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/26.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:18,658 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:18,659 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:18,675 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/27.jpg
+2017-01-29 16:54:18,675 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/27.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:20,550 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:20,551 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:20,565 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/28.jpg
+2017-01-29 16:54:20,565 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/28.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:22,171 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:22,172 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:22,187 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/1/29.jpg
+2017-01-29 16:54:22,187 INFO  FileDownloadar - Executing request GET /images/manga/birthright/1/29.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:23,731 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:23,732 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:23,751 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/1.jpg
+2017-01-29 16:54:23,752 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/1.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:25,603 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:25,604 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:25,618 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/2.jpg
+2017-01-29 16:54:25,619 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/2.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:27,327 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:27,328 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:27,342 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/3.jpg
+2017-01-29 16:54:27,342 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/3.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:28,843 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:28,844 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:28,890 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/4.jpg
+2017-01-29 16:54:28,890 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/4.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:31,210 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:31,211 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:31,229 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/5.jpg
+2017-01-29 16:54:31,230 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/5.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:32,826 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:32,827 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:32,848 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/6.jpg
+2017-01-29 16:54:32,849 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/6.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:34,663 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:34,665 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:34,680 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/7.jpg
+2017-01-29 16:54:34,681 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/7.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:36,346 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:36,347 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:36,365 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/8.jpg
+2017-01-29 16:54:36,366 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/8.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
+2017-01-29 16:54:39,296 INFO  FileDownloadar - 풵riting to file success? true
+2017-01-29 16:54:39,297 INFO  FileDownloadar - establichins conection for download
+2017-01-29 16:54:39,320 INFO  FileDownloadar - Starting to download from: www.readcomics.tv/images/manga/birthright/2/9.jpg
+2017-01-29 16:54:39,321 INFO  FileDownloadar - Executing request GET /images/manga/birthright/2/9.jpg HTTP/1.1 to http://www.readcomics.tv:80 via null
