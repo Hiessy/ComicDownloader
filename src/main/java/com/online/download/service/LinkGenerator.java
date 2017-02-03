@@ -39,7 +39,7 @@ public class LinkGenerator {
 
     private Map<String, List<String>> getDownloadURL(String url, String comicName) throws IOException {
 
-	Document doc = Jsoup.connect(url+comicName).userAgent("Mozilla").get();
+	Document doc = Jsoup.connect(url + comicName).userAgent("Mozilla").get();
 
 	LOGGER.debug("Got documento for total amount of comics: " + doc.toString());
 
@@ -63,11 +63,14 @@ public class LinkGenerator {
 	    LOGGER.debug("Analizing link: " + element);
 	    if (element.toString().contains("chapter-") && element.toString().contains(comicName) && !element.toString().contains("single")) {
 		String link = (element.attr("href"));
-		LOGGER.debug(link);
-
+		LOGGER.info(link);
+		volumenNumber = Integer.valueOf(link.substring(link.lastIndexOf("chapter-") + 8, link.length()));
 		try {
-		    LOGGER.info("Storing page links for volume number: " + ++volumenNumber);
-		    comicsList.put(volumenNumber.toString(), getPageLinks(Jsoup.connect(link).userAgent("Mozilla").get(),comicName ,volumenNumber.toString()));
+		    LOGGER.info("Storing page links for volume number: " + volumenNumber);
+		    if (comicsList.get(volumenNumber.toString()) == null)
+			comicsList.put(volumenNumber.toString(), getPageLinks(Jsoup.connect(link).userAgent("Mozilla").get(), comicName, volumenNumber.toString()));
+		    else
+			LOGGER.info("volumen number: " + volumenNumber +", already inserted");
 		} catch (IOException e) {
 
 		    e.printStackTrace();
@@ -86,10 +89,10 @@ public class LinkGenerator {
 	return comicsList;
     }
 
-    private List<String> getPageLinks(Document doc,String comicName ,String volumeNumber) {
-	
+    private List<String> getPageLinks(Document doc, String comicName, String volumeNumber) {
+
 	List<String> pagesLinks = new ArrayList<String>();
-	
+
 	Elements links = doc.select("div[class=label]");
 	int totalPages = 0;
 	LOGGER.debug("Creating download page link");
@@ -102,12 +105,12 @@ public class LinkGenerator {
 	    }
 	}
 
-	for(int i = 0; i < totalPages; i++){
-	    String page = ("http://www.readcomics.tv/images/manga/"+comicName+"/"+volumeNumber+"/"+(i+1)+".jpg");
+	for (int i = 0; i < totalPages; i++) {
+	    String page = ("http://www.readcomics.tv/images/manga/" + comicName + "/" + volumeNumber + "/" + (i + 1) + ".jpg");
 	    LOGGER.debug("Creating page link: " + page);
-	    pagesLinks.add(page); 
+	    pagesLinks.add(page);
 	}
-	    
+
 	return pagesLinks;
     }
 
