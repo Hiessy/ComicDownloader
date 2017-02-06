@@ -35,7 +35,7 @@ public class FileDownloadar {
 	return HttpClients.custom().setDefaultAuthSchemeRegistry(r).setDefaultCredentialsProvider(credsProvider).build(); //
     }
 
-    public Boolean downloadFile(String url, String proxyUrl, String proxyUserName, String proxyPassword, String comicName, String fileName) throws Exception {
+    public Boolean downloadFile(String url, String proxyUrl, String proxyUserName, String proxyPassword, String comicName, int volumeNumber, String fileName) throws Exception {
 
 	url = url.replace("http://", "").replace("https://", "");
 	String uri = getUri(url);
@@ -63,7 +63,7 @@ public class FileDownloadar {
 
 		if (entity != null) {
 
-		    LOGGER.info("¿Writing to file success? " + FileWriter.writeToFile(entity, fileName, comicName));
+		    LOGGER.info("¿Writing to file success? " + FileWriter.writeToFile(entity, fileName, comicName, volumeNumber));
 
 		}
 	    } finally {

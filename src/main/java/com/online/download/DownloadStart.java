@@ -7,6 +7,7 @@ import org.apache.log4j.Logger;
 
 import com.online.download.service.FileDownloadar;
 import com.online.download.service.LinkGenerator;
+import com.online.download.service.ZipConverter;
 
 public class DownloadStart {
 
@@ -18,7 +19,7 @@ public class DownloadStart {
 
 	String globalLink = "http://www.readcomics.tv/comic/";
 	String extension = "jpg";
-	String[] comicNameList = {"criminal-macabre-omnibus-2011",""};
+	String[] comicNameList = {"jem-the-misfits",""};
 
 	for(String comicName : comicNameList){
 	LOGGER.info("Begin download process with arguments: " + globalLink + ", " + extension + ", " + comicName);
@@ -32,9 +33,10 @@ public class DownloadStart {
 	    for (; volumeNumber <= downloadLinks.size(); ) {
 		for (String link : downloadLinks.get(volumeNumber.toString())) {
 		    String fileName = comicName + correctNumber(pageNumber++) + "." + extension;
-		    fileDownloader.downloadFile(link, null, null, null, comicName, fileName);
+		    fileDownloader.downloadFile(link, null, null, null, comicName, volumeNumber, fileName);
 		    
 		}
+		ZipConverter.compress(comicName, volumeNumber);
 		volumeNumber++;
 	    }
 
