@@ -5,20 +5,21 @@ import java.util.Map;
 
 import org.apache.log4j.Logger;
 
-import com.online.download.service.FileDownloadar;
+import com.online.download.service.FileDownloader;
 import com.online.download.service.LinkGenerator;
+import com.online.download.service.ZipConverter;
 
 public class DownloadStart {
 
     private final static Logger LOGGER = Logger.getLogger(DownloadStart.class);
     private static LinkGenerator linkGenerator = new LinkGenerator();
-    private static FileDownloadar fileDownloader = new FileDownloadar();
+    private static FileDownloader fileDownloader = new FileDownloader();
 
     public static void main(String[] args) {
 
 	String globalLink = "http://www.readcomics.tv/comic/";
 	String extension = "jpg";
-	String[] comicNameList = { "criminal-macabre-omnibus-2011", "cthulhu-williams-2016", "mythos" };
+	String[] comicNameList = {"cthulhu-williams-2016", "mythos" };
 
 	for (String comicName : comicNameList) {
 	    LOGGER.info("Begin download process with arguments: " + globalLink + ", " + extension + ", " + comicName);
@@ -33,13 +34,13 @@ public class DownloadStart {
 		for (; volumeNumber <= downloadLinks.size();) {
 		    for (String link : downloadLinks.get(volumeNumber.toString())) {
 			String fileName = comicName + correctNumber(pageNumber++) + "." + extension;
-			fileDownloader.downloadFile(link, null, null, null, comicName, fileName);
+			fileDownloader.downloadFile(link, null, null, null, comicName, volumeNumber, fileName);
 
 		    }
 		    ZipConverter.compress(comicName, volumeNumber);
 		    volumeNumber++;
 		}
-		
+
 	    } catch (Exception e) {
 
 		e.printStackTrace();

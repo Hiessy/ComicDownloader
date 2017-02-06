@@ -17,7 +17,7 @@ public class ZipConverter
 			
 			String filePath = "comics/" + comicName +"/";
 			String folder = comicName + volumeNumber;
-			String zipName = folder+".zip";
+			String zipName = folder+".cbr";
 			File zipFile = new File(filePath+zipName);
 			FileOutputStream out = new FileOutputStream(zipFile);
 			ZipOutputStream zout = new ZipOutputStream(new BufferedOutputStream(out));
