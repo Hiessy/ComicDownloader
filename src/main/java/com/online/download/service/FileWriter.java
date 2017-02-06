@@ -15,12 +15,12 @@ public class FileWriter {
 
     private final static Logger LOGGER = Logger.getLogger(FileWriter.class);
 
-    public static boolean writeToFile(HttpEntity entity, String fileName, String comicName) throws ClientProtocolException, IOException {
+    public static boolean writeToFile(HttpEntity entity, String fileName, String comicName, int volumeNumber) throws ClientProtocolException, IOException {
 
 	InputStream instream = entity.getContent();
 	try {
 	    BufferedInputStream bis = new BufferedInputStream(instream);
-	    String filePath = createDir("comics/"+comicName+"/") + fileName;
+	    String filePath = createDir("comics/"+comicName+"/"+comicName+volumeNumber+"/") + fileName;
 	    BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream(new File(filePath)));
 	    int inByte;
 	    while ((inByte = bis.read()) != -1) {
@@ -47,8 +47,8 @@ public class FileWriter {
 	    LOGGER.info("Creating download directory: " + theDir.getName());
 	    boolean result = false;
 	    try {
-		theDir.mkdir();
-		result = true;
+		result = theDir.mkdirs();
+		//result = true;
 	    } catch (SecurityException se) {
 		LOGGER.info("There has been a secutiry error: "+ se);
 	    }

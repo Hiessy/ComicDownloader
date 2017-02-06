@@ -36,9 +36,10 @@ public class DownloadStart {
 			fileDownloader.downloadFile(link, null, null, null, comicName, fileName);
 
 		    }
+		    ZipConverter.compress(comicName, volumeNumber);
 		    volumeNumber++;
 		}
-
+		
 	    } catch (Exception e) {
 
 		e.printStackTrace();
