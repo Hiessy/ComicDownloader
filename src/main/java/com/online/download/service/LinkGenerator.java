@@ -41,7 +41,7 @@ public class LinkGenerator {
 
 	Document doc = Jsoup.connect(url + comicName).userAgent("Mozilla").get();
 
-	LOGGER.debug("Got documento for total amount of comics: " + doc.toString());
+	LOGGER.debug("Got document for total amount of comics: " + doc.toString());
 
 	Map<String, List<String>> comicLinks = getComicLinks(doc, comicName);
 

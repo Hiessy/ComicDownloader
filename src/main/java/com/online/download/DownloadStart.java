@@ -19,14 +19,14 @@ public class DownloadStart {
 
 	String globalLink = "http://www.readcomics.tv/comic/";
 	String extension = "jpg";
-	String[] comicNameList = {"cthulhu-williams-2016", "mythos" };
+	String[] comicNameList = {"cthulhu-williams-2016" };
 
 	for (String comicName : comicNameList) {
 	    LOGGER.info("Begin download process with arguments: " + globalLink + ", " + extension + ", " + comicName);
 
 	    try {
 		Map<String, List<String>> downloadLinks = linkGenerator.generateDownloadLinks(globalLink, comicName);
-		LOGGER.info("Begin downloagin images for all " + downloadLinks.size() + " comics found");
+		LOGGER.info("Begin downloading images for all " + downloadLinks.size() + " comics found");
 		Integer volumeNumber = 1;
 		Integer pageNumber = 1;
 		// TODO guardar en un archivo los links de descagaras y el
@@ -39,6 +39,7 @@ public class DownloadStart {
 		    }
 		    ZipConverter.compress(comicName, volumeNumber);
 		    volumeNumber++;
+		    pageNumber = 1;
 		}
 
 	    } catch (Exception e) {
@@ -49,15 +50,13 @@ public class DownloadStart {
     }
 
     private static String correctNumber(Integer pageNumber) {
-	String number;
+
 	if (pageNumber < 10)
-	    number = "000" + (pageNumber);
+	    return "00" + (pageNumber);
 	else if (pageNumber >= 10 && pageNumber < 100)
-	    number = "00" + (pageNumber);
-	else if (pageNumber >= 100 && pageNumber < 1000)
-	    number = "0" + (pageNumber);
-	else
-	    number = "" + pageNumber;
-	return number;
+	    return "0" + (pageNumber);
+	else 
+	    return "" + (pageNumber);
+
     }
 }
