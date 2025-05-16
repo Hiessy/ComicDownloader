@@ -7,32 +7,28 @@
  */
 package com.online.download.service;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.TreeMap;
-
-import org.apache.log4j.Logger;
+import lombok.extern.slf4j.Slf4j;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
 // Doicuemtacion https://jsoup.org/cookbook/
-
+@Slf4j
 public class LinkGenerator {
-
-    private final static Logger LOGGER = Logger.getLogger(LinkGenerator.class);
 
     public Map<String, List<String>> generateDownloadLinks(String uri, String comicName) throws Exception {
 
-	LOGGER.debug("Generating download link for URL: " + uri + comicName);
+	log.debug("Generating download link for URL: " + uri + comicName);
 	Map<String, List<String>> downloadLinks = getDownloadURL(uri, comicName);
 
-	LOGGER.debug("finished genetaring map with download links");
+	log.debug("finished genetaring map with download links");
 
 	return downloadLinks;
     }
@@ -41,11 +37,11 @@ public class LinkGenerator {
 
 	Document doc = Jsoup.connect(url + comicName).userAgent("Mozilla").get();
 
-	LOGGER.debug("Got document for total amount of comics: " + doc.toString());
+	log.debug("Got document for total amount of comics: " + doc.toString());
 
 	Map<String, List<String>> comicLinks = getComicLinks(doc, comicName);
 
-	LOGGER.debug("Total comics found: " + comicLinks.size());
+	log.debug("Total comics found: " + comicLinks.size());
 
 	return comicLinks;
 
@@ -57,20 +53,20 @@ public class LinkGenerator {
 
 	Elements links = doc.select("a[href]");
 	Integer volumenNumber = 0;
-	LOGGER.info("Getting comic book links");
+	log.info("Getting comic book links");
 
 	for (Element element : links) {
-	    LOGGER.debug("Analizing link: " + element);
+		log.debug("Analizing link: " + element);
 	    if (element.toString().contains("chapter-") && element.toString().contains(comicName) && !element.toString().contains("single")) {
 		String link = (element.attr("href"));
-		LOGGER.info(link);
+		log.info(link);
 		volumenNumber = Integer.valueOf(link.substring(link.lastIndexOf("chapter-") + 8, link.length()));
 		try {
-		    LOGGER.info("Storing page links for volume number: " + volumenNumber);
+			log.info("Storing page links for volume number: " + volumenNumber);
 		    if (comicsList.get(volumenNumber.toString()) == null)
 			comicsList.put(volumenNumber.toString(), getPageLinks(Jsoup.connect(link).userAgent("Mozilla").get(), comicName, volumenNumber.toString()));
 		    else
-			LOGGER.info("volumen number: " + volumenNumber +", already inserted");
+			log.info("volumen number: " + volumenNumber +", already inserted");
 		} catch (IOException e) {
 
 		    e.printStackTrace();

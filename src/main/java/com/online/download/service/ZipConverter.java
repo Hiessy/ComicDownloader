@@ -1,19 +1,21 @@
 package com.online.download.service;
 
-import org.apache.log4j.Logger;
+import lombok.extern.slf4j.Slf4j;
+
 import java.util.zip.*;
 import java.io.*;
 
+
+@Slf4j
 public class ZipConverter 
 {
 	private static final int BUFFER = 2048;
-	private final static Logger LOGGER = Logger.getLogger(ZipConverter.class);
-	
+
 	public static void compress(String comicName, int volumeNumber)
 	{
 		try 
 		{
-			LOGGER.info("Init compression");
+			log.info("Init compression");
 			
 			String filePath = "comics/" + comicName +"/";
 			String folder = comicName + volumeNumber;
@@ -27,7 +29,7 @@ public class ZipConverter
 			
 			for(int i = 0; i < files.length; i++)
 			{
-				LOGGER.info("Adding file: " + files[i] +" to: "+zipName);
+				log.info("Adding file: " + files[i] +" to: "+zipName);
 				File file = new File(filePath+folder+"/"+files[i]);
 				FileInputStream fi = new FileInputStream(file);
 				BufferedInputStream in = new BufferedInputStream(fi,BUFFER);
@@ -40,15 +42,15 @@ public class ZipConverter
 				}
 				
 				in.close();
-				LOGGER.info("¿Deleting file: "+file.getName()+" from: "+file.getPath()+"? "+file.delete());
+				log.info("ï¿½Deleting file: "+file.getName()+" from: "+file.getPath()+"? "+file.delete());
 			}
 			zout.close();
-			LOGGER.info("¿Deleting directory: "+f.getPath()+"? "+f.delete());
+			log.info("ï¿½Deleting directory: "+f.getPath()+"? "+f.delete());
 			
 			
 		} catch (Exception e) 
 		{
-			LOGGER.info(e.getMessage());
+			log.info(e.getMessage());
 		}
 		
 	}

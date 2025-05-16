@@ -7,13 +7,13 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
-import org.apache.http.HttpEntity;
-import org.apache.http.client.ClientProtocolException;
-import org.apache.log4j.Logger;
+import lombok.extern.slf4j.Slf4j;
+import org.apache.hc.client5.http.ClientProtocolException;
+import org.apache.hc.core5.http.HttpEntity;
 
+
+@Slf4j
 public class FileWriter {
-
-    private final static Logger LOGGER = Logger.getLogger(FileWriter.class);
 
     public static boolean writeToFile(HttpEntity entity, String fileName, String comicName, int volumeNumber) throws ClientProtocolException, IOException {
 
@@ -29,9 +29,9 @@ public class FileWriter {
 	    bis.close();
 	    bos.close();
 	} catch (IOException ex) {
-	    LOGGER.info("Unable to read input stream: " + ex);
+	    log.info("Unable to read input stream: " + ex);
 	} catch (RuntimeException ex) {
-	    LOGGER.info("Unexpected error ocurred: " + ex);
+		log.info("Unexpected error ocurred: " + ex);
 	} finally {
 	    instream.close();
 	}
@@ -44,16 +44,16 @@ public class FileWriter {
 	File theDir = new File(string.substring(0, string.lastIndexOf("/")));
 
 	if (!theDir.exists()) {
-	    LOGGER.info("Creating download directory: " + theDir.getName());
+		log.info("Creating download directory: " + theDir.getName());
 	    boolean result = false;
 	    try {
 		result = theDir.mkdirs();
 		//result = true;
 	    } catch (SecurityException se) {
-		LOGGER.info("There has been a secutiry error: "+ se);
+			log.info("There has been a secutiry error: "+ se);
 	    }
 	    if (result) {
-		LOGGER.info("Output directory succesfully created");
+			log.info("Output directory succesfully created");
 	    }
 	}
 	return string;
